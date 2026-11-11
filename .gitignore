@@ -1,0 +1,11 @@
+node_modules/
+!.env.example
+**/.env*
+!**/.env.example
+dist/
+_specs/
+rapport/
+*.log
+.DS_Store
+~$*.docx
+config.bat
